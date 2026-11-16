@@ -1,0 +1,395 @@
+<link rel="stylesheet" href="style.css">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Eco Impact | Protecting Our Planet</title>
+
+    <meta name="description" content="Discover Eco Impact, an environmental awareness initiative promoting conservation, sustainable practices and community action.">
+
+    <meta name="keywords" content="Eco Impact, environmental awareness, nature conservation, sustainability, wildlife protection, ocean conservation">
+
+    <meta name="author" content="Eco Impact">
+
+    <meta property="og:title" content="Eco Impact | Protecting Our Planet">
+    <meta property="og:description" content="Small actions. Lasting change. Join Eco Impact in creating a more sustainable future.">
+    <meta property="og:type" content="website">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+
+    <nav class="navbar">
+        <h2>eco<span>impact.</span></h2>
+
+        <div class="nav-links">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#issues">Our Planet</a>
+            <a href="#action">Take Action</a>
+            <a href="#impact">Our Impact</a>
+            <a href="#opportunities">Opportunities</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <!-- HERO -->
+
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <p class="eyebrow">SMALL ACTIONS. LASTING CHANGE.</p>
+
+            <h1>Protecting our planet starts with <span>us.</span></h1>
+
+            <p>
+                A healthier planet begins with awareness,
+                responsibility and collective action.
+                Together, we can create a sustainable future.
+            </p>
+
+            <a href="#action" class="button">Make a Difference →</a>
+        </div>
+    </section>
+
+    <!-- ABOUT -->
+
+    <section class="about" id="about">
+        <p class="eyebrow">WHY IT MATTERS</p>
+        <h2>Our planet needs more than promises.</h2>
+
+        <p>
+            Environmental protection is not simply the
+            responsibility of governments and organisations.
+            Every individual has a role in protecting
+            biodiversity, reducing pollution and preserving
+            natural resources.
+        </p>
+    </section>
+
+    <!-- ENVIRONMENTAL ISSUES -->
+
+    <section class="issues" id="issues">
+        <p class="eyebrow">UNDERSTAND THE CHALLENGE</p>
+        <h2>What are we protecting?</h2>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>🌳 Forest Conservation</h3>
+                <p>
+                    Protecting forests and the habitats
+                    that countless species depend on.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>🌊 Ocean Protection</h3>
+                <p>
+                    Reducing marine pollution and protecting
+                    aquatic ecosystems.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>🐦 Wildlife Protection</h3>
+                <p>
+                    Preserving biodiversity and safeguarding
+                    vulnerable species.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- TAKE ACTION -->
+
+    <section class="action" id="action">
+        <p class="eyebrow">BE PART OF THE CHANGE</p>
+        <h2>Don't just care. Take action.</h2>
+
+        <p>
+            From community clean-ups to wildlife conservation,
+            there are countless ways to contribute.
+        </p>
+
+        <a href="https://www.instagram.com/ecoimpact023/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="button">
+            Get Involved →
+        </a>
+    </section>
+
+    <!-- OUR IMPACT -->
+
+    <section class="impact" id="impact">
+
+        <p class="eyebrow">SMALL ACTIONS. LASTING CHANGE.</p>
+
+        <h2>Our Impact.</h2>
+
+        <p class="impact-intro">
+            Change begins when awareness turns into action.
+            Through fundraising, education and community involvement,
+            Eco Impact aims to inspire people to take responsibility
+            for the environment.
+        </p>
+
+        <div class="impact-grid">
+
+            <div class="impact-card">
+                <span class="impact-number">01</span>
+                <h3>Raising Awareness</h3>
+                <p>
+                    Creating environmental awareness materials and
+                    social media campaigns to encourage responsible
+                    choices and inspire conservation.
+                </p>
+                <span class="impact-tag">EDUCATION & AWARENESS</span>
+            </div>
+
+            <div class="impact-card">
+                <span class="impact-number">02</span>
+                <h3>Fundraising for Change</h3>
+                <p>
+                    Organising a bake sale to support our environmental
+                    project and encourage our school community to
+                    contribute towards a shared cause.
+                </p>
+                <span class="impact-tag">COMMUNITY SUPPORT</span>
+            </div>
+
+            <div class="impact-card">
+                <span class="impact-number">03</span>
+                <h3>Taking Action Together</h3>
+                <p>
+                    Working towards a community beach clean-up by
+                    bringing volunteers together to help protect
+                    our coastlines and marine environment.
+                </p>
+                <span class="impact-tag">COMMUNITY ACTION</span>
+            </div>
+
+        </div>
+
+        <p class="impact-closing">
+            A healthier planet starts with people willing to make a difference.
+        </p>
+
+    </section>
+
+    <!-- VOLUNTEERING OPPORTUNITIES -->
+
+    <section class="opportunities" id="opportunities">
+
+        <p class="eyebrow">TURN AWARENESS INTO ACTION</p>
+
+        <h2>Find your opportunity.</h2>
+
+        <p class="opportunity-intro">
+            Whether you're passionate about protecting wildlife
+            or preserving our environment, there are organisations
+            working towards a better future. Find out how you can contribute.
+        </p>
+
+        <h2 class="opportunity-heading">Wildlife Conservation</h2>
+
+        <p class="opportunity-intro">
+            Protecting biodiversity, safeguarding endangered species
+            and preserving natural habitats.
+        </p>
+
+        <div class="opportunity-grid">
+
+            <div class="opportunity-card">
+                <span class="category">SRI LANKA</span>
+                <h3>Wildlife and Nature Protection Society</h3>
+                <p>
+                    Support wildlife conservation, research,
+                    environmental education and biodiversity
+                    protection across Sri Lanka.
+                </p>
+                <a href="https://www.wnpssl.org/volunteer/"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Check availability ↗
+                </a>
+            </div>
+
+            <div class="opportunity-card">
+                <span class="category">SRI LANKA</span>
+                <h3>National Zoological Gardens</h3>
+                <p>
+                    Explore opportunities involving animal welfare,
+                    conservation activities and environmental education.
+                </p>
+                <a href="https://nationalzoo.gov.lk/become-a-volunteer/"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Check availability ↗
+                </a>
+            </div>
+
+            <div class="opportunity-card">
+                <span class="category">GLOBAL</span>
+                <h3>BirdLife International</h3>
+                <p>
+                    Discover an international network dedicated
+                    to protecting birds, biodiversity and important
+                    natural habitats.
+                </p>
+                <a href="https://www.birdlife.org/"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Explore initiatives ↗
+                </a>
+            </div>
+
+        </div>
+
+        <h2 class="opportunity-heading">Environmental Protection</h2>
+
+        <p class="opportunity-intro">
+            Taking action against pollution, protecting ecosystems
+            and creating a more sustainable future.
+        </p>
+
+        <div class="opportunity-grid">
+
+            <div class="opportunity-card">
+                <span class="category">SRI LANKA</span>
+                <h3>The Pearl Protectors</h3>
+                <p>
+                    Participate in marine conservation, coastal
+                    clean-ups, environmental awareness and
+                    research initiatives.
+                </p>
+                <a href="https://pearlprotectors.org/volunteer/"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Check availability ↗
+                </a>
+            </div>
+
+            <div class="opportunity-card">
+                <span class="category">SRI LANKA</span>
+                <h3>ZeroPlastic</h3>
+                <p>
+                    Contribute to plastic pollution reduction,
+                    community clean-ups, research and
+                    environmental campaigns.
+                </p>
+                <a href="https://www.zeroplastic.lk/volunteers/"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Check availability ↗
+                </a>
+            </div>
+
+            <div class="opportunity-card">
+                <span class="category">GLOBAL</span>
+                <h3>Ocean Conservancy</h3>
+                <p>
+                    Discover international coastal clean-ups
+                    and global initiatives addressing marine pollution.
+                </p>
+                <a href="https://oceanconservancy.org/trash-free-seas/international-coastal-cleanup/"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Explore initiatives ↗
+                </a>
+            </div>
+
+        </div>
+
+        <div class="opportunity-disclaimer">
+            <p>
+                <strong>Before getting involved:</strong>
+                Opportunities, application periods, eligibility
+                requirements and available places may vary.
+                Contact each organisation directly to confirm
+                current availability. Some programmes may have
+                age restrictions, fees or additional requirements.
+                Younger volunteers should check with a parent
+                or guardian before applying.
+            </p>
+        </div>
+
+    </section>
+
+    <!-- CONTACT -->
+
+    <section class="contact" id="contact">
+
+        <p class="eyebrow">LET'S MAKE A DIFFERENCE</p>
+
+        <h2>Get in touch.</h2>
+
+        <p class="contact-intro">
+            Have a question, want to get involved, or interested
+            in supporting our initiatives? We'd love to hear from you.
+        </p>
+
+        <div class="contact-links">
+
+            <a href="https://www.instagram.com/ecoimpact023/"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="contact-card">
+
+                <span class="contact-label">FOLLOW OUR JOURNEY</span>
+                <h3>Instagram ↗</h3>
+                <p>Keep up with our campaigns, updates and activities.</p>
+
+            </a>
+
+            <a href="mailto:ecoimpact023@gmail.com"
+               class="contact-card">
+
+                <span class="contact-label">SEND US A MESSAGE</span>
+                <h3>Email Us ↗</h3>
+                <p>Contact us with questions, ideas or volunteering enquiries.</p>
+
+            </a>
+
+        </div>
+
+        <p class="contact-note">
+            Every conversation is a chance to create positive change.
+        </p>
+
+    </section>
+
+    <!-- FOOTER -->
+
+    <footer>
+        <h2>eco<span>impact.</span></h2>
+
+        <p>One planet. One responsibility. Countless possibilities.</p>
+
+        <div class="social-links">
+
+            <a href="https://www.instagram.com/ecoimpact023/"
+               target="_blank"
+               rel="noopener noreferrer">
+                Instagram ↗
+            </a>
+
+            <a href="mailto:ecoimpact023@gmail.com">
+                Email Us ↗
+            </a>
+
+        </div>
+
+        <p>© 2026 Eco Impact | Environmental Awareness Project</p>
+    </footer>
+
+</body>
+</html>
+<script src="script.js"></script>
